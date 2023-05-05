@@ -1,0 +1,14 @@
+swe.txt
+ai.txt
+ids.txt
+cs.txt
+dc.txt
+dsp.txt
+pcn.txt
+igcn.txt
+indins.txt
+mecha.txt
+autoengg.txt
+ht.txt
+cadcam.txt
+md2.txt
